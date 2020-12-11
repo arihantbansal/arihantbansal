@@ -1,10 +1,17 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi, I'm Arihant <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>  
-<h3 align="center">🎯️An undergraduate student at BITS Goa and self taught developer 🚀️</h3>  
+<!--<h3 align="center">🎯️An undergraduate student at BITS Goa and self taught developer 🚀️</h3> -->
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arihantbansal&label=Profile%20views&color=0e75b6&style=flat" alt="arihantbansal" /> </p>  
+
+## 📖 About me
   
+- 💻 I'm a self-taught developer and budding competitive programming
+
 - 🌱 I’m currently learning **Data Structures, Algorithms and Flask**  
-  
+
+- 🎓 I'm an **Electrical and Electronics Engineering student** at BITS Goa
+
 - 💬 Ask me about **Java, Python, and Math. I like Math.**  
   
 - 📫 How to reach me **arihant.bansal@gmail.com**  
