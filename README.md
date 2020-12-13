@@ -12,7 +12,7 @@
 
 - 🎓 I'm an **Electrical and Electronics Engineering student** at BITS Goa
 
-- 💬 Ask me about **Java, Python, and Math. I like Math.**  
+- 💬 Ask me about **Java, Python, and Math.**  
     
 - ⚡ Fun fact **I procrastinated on creating this README.**  
   
