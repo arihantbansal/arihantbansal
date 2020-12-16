@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/g6XTfHP.png" height="175px"/></a>
 <h1 align="center">Hi, I'm Arihant <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>  
 <!--<h3 align="center">🎯️An undergraduate student at BITS Goa and self taught developer 🚀️</h3> -->
   
