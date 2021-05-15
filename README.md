@@ -58,13 +58,13 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aribantbansal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arihantbansal&show_icons=true&count_private=true&locale=en&layout=compact&theme=great-gatsby" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aribantbansal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arihantbansal&show_icons=true&count_private=true&locale=en&layout=compact&theme=prussian" /></a>
 </details>
 
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="arihantbansal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arihantbansal&langs_count=10&layout=compact&theme=great-gatsby" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="arihantbansal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arihantbansal&langs_count=10&layout=compact&theme=prussian" /></a>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
@@ -72,7 +72,7 @@
 <details>
   <summary>⚡GitHub Streak</summary>
   <br/>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="arihantbansal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arihantbansal&theme=dark" /></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="arihantbansal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arihantbansal&theme=prussian" /></a>
 </details>
   
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arihantbansal&show_icons=true&locale=en&theme=great-gatsby" alt="arihantbansal" /></p>-->  
