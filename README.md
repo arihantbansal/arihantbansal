@@ -10,15 +10,15 @@
 
 ## 📖 About me
 
--   💻 I'm currently working on **my React, Express and Node skills**
+-   💻 Working on **my React, Express and Node skills**
 
--   🌱 I’m currently learning **TypeScript and Next.js**
+-   🌱 Learning **TypeScript and Next.js**
 
--   🎓 I'm an **Electrical and Electronics Engineering student** at BITS Goa
+-   🎓 **Electrical and Electronics Engineering student** at BITS Goa
 
 -   😄 Pronouns: **He/Him**
 
--   💬 Ask me about **history of Mathematics and of the Roman empire**
+-   💬 Ask me anything about **history of Mathematics and of the Roman empire**
 
 <!-- -   ⚡ Fun fact  -->
 
