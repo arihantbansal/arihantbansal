@@ -1,36 +1,56 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/devicon.min.css">
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/g6XTfHP.png" height="175px"/></a>
-<h1 align="center">Hi, I'm Arihant <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>  
+<!-- <a href="https://arihantbansal.github.io/"><img src="images/dev.svg" width="100%" height="auto"/></a> -->
+<!-- May add the top image back again in the future -->
+<br />
+<h1 align="center">🚀️ Hi there, I'm [Arihant!](https://arihantbansal.github.io/) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>  
 <!--<h3 align="center">🎯️An undergraduate student at BITS Goa and self taught developer 🚀️</h3> -->
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arihantbansal&label=Profile%20views&color=0e75b6&style=flat" alt="arihantbansal" /> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arihantbansal&label=Profile%20views&color=0e75b6&style=flat" alt="arihantbansal" /> </p>
+
+ <img src="images/programming-animate.svg" alt="arihantbansal" align="right" height="500px" />
 
 ## 📖 About me
-  
-- 💻 I'm a self-taught developer and budding competitive programming
 
-- 🌱 I’m currently learning **Data Structures, Algorithms and Flask**  
+-   💻 I'm currently working on **my React, Express and Node skills**
 
-- 🎓 I'm an **Electrical and Electronics Engineering student** at BITS Goa
+-   🌱 I’m currently learning **TypeScript and Next.js**
 
-- 💬 Ask me about **Java, Python, and Math.**  
-    
-- ⚡ Fun fact **I procrastinated on creating this README.**  
-  
-## ⚡ Connect with me
+-   🎓 I'm an **Electrical and Electronics Engineering student** at BITS Goa
+
+-   😄 Pronouns: **He/Him**
+
+-   💬 Ask me about **history of Mathematics and of the Roman empire**
+
+<!-- -   ⚡ Fun fact  -->
+
+## 📫 Connect with me
+
 <p align="left">  
-<a href="https://linkedin.com/in/arihantbansal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arihantbansal" height="30" width="40" /></a>  
-<a href="https://stackoverflow.com/users/6327246" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="6327246" height="30" width="40" /></a>
-<a href="https://twitter.com/_arihantbansal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_arihantbansal" height="30" width="40" /></a>  
-<a href="https://codepen.io/ariban900" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ariban900" height="30" width="40" /></a>    
-<a href="https://medium.com/@arihant_bansal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@arihant_bansal" height="30" width="40" /></a>  
-<a href="https://www.codechef.com/users/ariban900" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ariban900" height="30" width="40" /></a>  
-<a href="https://codeforces.com/profile/arihant.bansal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="arihant.bansal" height="30" width="40" /></a>  
-<a href="https://www.hackerearth.com/@arihant.bansal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@arihant.bansal" height="30" width="40" /></a>  
+	<a href="https://linkedin.com/in/arihantbansal" target="blank">
+		<img align="center" height="30" width="30" src="images/linkedin.svg" alt="Arihant Bansal | LinkedIn" />
+	</a>
+	<a href="https://twitter.com/_arihantbansal" target="blank">
+		<img align="center" height="30" width="30" src="images/twitter.svg" alt="Arihant Bansal | Twitter" />
+	</a>
+	<a href="mailto:arihant.bansal@gmail.com">
+		<img align="center" height="30" width="30" src="images/mail.svg" alt="Arihant Bansal | Mail" />
+    </a>
+
 </p>  
   
-## :computer: Languages and Tools
-<p align="left"> <a href="https://www.java.com" target="_blank"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" /> </a> <a href="https://www.python.org" target="_blank"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" /> </a><a href="https://www.cprogramming.com/" target="_blank"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/c.svg" /> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/flask.svg" /> </a> <a href="https://git-scm.com/" target="_blank"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" /> </a> <a href="https://getbootstrap.com" target="_blank"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bootstrap.svg" /> </a> <a href="https://www.linux.org/" target="_blank"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linux.svg" /> </a> <a href="https://www.mysql.com/" target="_blank"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mysql.svg" /> </a>  </p>  
+## 💻 Technologies and Tools
+<p align="left"> 
+	<code> <img height="32" width="32" src="images/react.svg" /> </code>
+	<code> <img height="32" width="32" src="images/nodejs.svg" />  </code>
+	<code> <img height="32" width="32" src="images/js.svg" /> </code>
+	<code> <img height="32" width="32" src="images/java.svg" /> </code>
+	<code> <img height="32" width="32" src="images/python.svg" /> </code>
+	<code> <img height="32" width="32" src="images/c.svg" /> </code>
+	<code> <img height="32" width="32" src="images/flask.svg" /> </code>
+	<code> <img height="32" width="32" src="images/git.svg" /> </code>
+	<code> <img height="32" width="32" src="images/html5.svg" /> </code>
+	<code> <img height="32" width="32" src="images/css3.svg" /> </code>
+	<code> <img height="32" width="32" src="images/linux.svg" /> </code>
+</p>  
   
 ## 📈 Github Stats
 
@@ -60,7 +80,6 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arihantbansal&theme=dark" alt="arihantbansal" /></p> -->
 
 <!--![](https://hit.yhype.me/github/profile?user_id=17180950)-->
-
 
 <!--
 **arihantbansal/arihantbansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
