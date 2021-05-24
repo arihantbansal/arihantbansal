@@ -1,7 +1,8 @@
 <!-- <a href="https://arihantbansal.github.io/"><img src="images/dev.svg" width="100%" height="auto"/></a> -->
 <!-- May add the top image back again in the future -->
 <br />
-<h1 align="center">🚀️ Hi there, I'm Arihant! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>  
+<!--<h1 align="center">🚀️ Hi there, I'm Arihant! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> -->
+<img src="https://raw.githubusercontent.com/arihantbansal/arihantbansal/main/header.png" />
 <!--<h3 align="center">🎯️An undergraduate student at BITS Goa and self taught developer 🚀️</h3> -->
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arihantbansal&label=Profile%20views&color=0e75b6&style=flat" alt="arihantbansal" /> </p>
