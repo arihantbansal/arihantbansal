@@ -11,15 +11,15 @@
 
 ## 📖 About me
 
--   💻 Working on **my React, Express and Node skills**
+- 💻 Working on **my React, Express and Node skills**
 
--   🌱 Learning **TypeScript and Next.js**
+- 🌱 Learning **TypeScript and Next.js**
 
--   🎓 **Electrical and Electronics Engineering student** at BITS Goa
+- 🎓 **Electrical and Electronics Engineering student** at BITS Goa
 
--   😄 Pronouns: **He/Him**
+- 😄 Pronouns: **He/Him**
 
--   💬 Ask me anything about **history of Mathematics and of the Roman empire**
+- 💬 Ask me anything about **history of Mathematics and of the Roman empire**
 
 <!-- -   ⚡ Fun fact  -->
 
@@ -75,12 +75,15 @@
   <br/>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="arihantbansal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arihantbansal&theme=prussian" /></a>
 </details>
-  
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arihantbansal&show_icons=true&locale=en&theme=great-gatsby" alt="arihantbansal" /></p>-->  
-  
+<br />
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arihantbansal&theme=react-dark)
+
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arihantbansal&show_icons=true&locale=en&theme=great-gatsby" alt="arihantbansal" /></p>-->
+
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arihantbansal&theme=dark" alt="arihantbansal" /></p> -->
 
-<!--![](https://hit.yhype.me/github/profile?user_id=17180950)-->
+<!-- ![](https://hit.yhype.me/github/profile?user_id=17180950) -->
 
 <!--
 **arihantbansal/arihantbansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
