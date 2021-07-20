@@ -2,7 +2,7 @@
 <!-- May add the top image back again in the future -->
 <br />
 <!--<h1 align="center">🚀️ Hi there, I'm Arihant! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> -->
-<img src="https://raw.githubusercontent.com/arihantbansal/arihantbansal/main/header.png" />
+<a href="http://arihantbansal.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/arihantbansal/arihantbansal/main/header.png" /></a>
 <!--<h3 align="center">🎯️An undergraduate student at BITS Goa and self taught developer 🚀️</h3> -->
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arihantbansal&label=Profile%20views&color=0e75b6&style=flat" alt="arihantbansal" /> </p>
@@ -34,9 +34,8 @@
 	</a>
 	<a href="mailto:arihant.bansal@gmail.com">
 		<img align="center" height="30" width="30" src="images/mail.svg" alt="Arihant Bansal | Mail" />
-    </a>
-
-</p>  
+  </a>
+</p>
   
 ## 💻 Technologies and Tools
 <p align="left"> 
@@ -83,7 +82,7 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arihantbansal&theme=dark" alt="arihantbansal" /></p> -->
 
-<!-- ![](https://hit.yhype.me/github/profile?user_id=17180950) -->
+<!-- <p>![Something](https://hit.yhype.me/github/profile?user_id=17180950)</p> -->
 
 <!--
 **arihantbansal/arihantbansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
