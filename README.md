@@ -19,7 +19,7 @@
 
 - 😄 Pronouns: **He/Him**
 
-- 💬 Ask me anything about **history of Mathematics and of the Roman empire**
+- 💬 Ask me anything about **Startups and the Roman empire**
 
 <!-- -   ⚡ Fun fact  -->
 
