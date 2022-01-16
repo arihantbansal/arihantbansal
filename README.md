@@ -11,7 +11,7 @@
 
 ## 📖 About me
 
-- 💻 Working on **my React, Express and Node skills**
+- 💻 Exploring **Blockchain and the metaverse**
 
 - 🌱 Learning **TypeScript and Next.js**
 
@@ -19,7 +19,7 @@
 
 - 😄 Pronouns: **He/Him**
 
-- 💬 Ask me anything about **Startups and the Roman empire**
+<!-- - 💬 Ask me anything about **Startups and the Roman empire** -->
 
 <!-- -   ⚡ Fun fact  -->
 
