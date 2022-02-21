@@ -32,9 +32,9 @@
 	<a href="https://twitter.com/_arihantbansal" target="blank">
 		<img align="center" height="30" width="30" src="images/twitter.svg" alt="Arihant Bansal | Twitter" />
 	</a>
-	<a href="mailto:arihant.bansal@gmail.com">
+<!-- 	<a href="mailto:arihant.bansal@gmail.com">
 		<img align="center" height="30" width="30" src="images/mail.svg" alt="Arihant Bansal | Mail" />
-  </a>
+  	</a> -->
 </p>
   
 ## 💻 Technologies and Tools
