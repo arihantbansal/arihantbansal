@@ -11,9 +11,9 @@
 
 ## 📖 About me
 
-- 💻 Exploring **Blockchain and the metaverse**
+- 💻 Exploring **Blockchain and web3.0**
 
-- 🌱 Learning **TypeScript and Next.js**
+- 🌱 Learning **Solidity and Rust**
 
 - 🎓 **Electrical and Electronics Engineering student** at BITS Goa
 
