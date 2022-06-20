@@ -11,15 +11,17 @@
 
 ## 📖 About me
 
-- 💻 Exploring **Blockchain and web3.0**
+- 💻 Exploring **products on web3**
 
 - 🌱 Learning **Solidity and Rust**
+
+- 📫 How to reach me: arihant\[dot\]bansal\[at\]gmail\[dot\]com
 
 - 🎓 **Electrical and Electronics Engineering student** at BITS Goa
 
 - 😄 Pronouns: **He/Him**
 
-<!-- - 💬 Ask me anything about **Startups and the Roman empire** -->
+- 💬 Ask me anything about **Startups and the Roman empire**
 
 <!-- -   ⚡ Fun fact  -->
 
