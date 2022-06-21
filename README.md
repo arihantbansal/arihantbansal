@@ -11,7 +11,7 @@
 
 ## 📖 About me
 
-- 💻 Exploring **products on web3**
+- 💻 Exploring **web3**
 
 - 🌱 Learning **Solidity and Rust**
 
