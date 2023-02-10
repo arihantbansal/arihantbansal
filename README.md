@@ -16,7 +16,7 @@
 
 ### Contact Me - 📫
 
-- [Twitter](https://twitter.com/_arihantbansal_)
+- [Twitter](https://twitter.com/_arihantbansal)
 - [LinkedIn](https://www.linkedin.com/in/arihantbansal/)
 <!--
 [![Twitter: Arihant](https://img.shields.io/twitter/follow/_arihantbansal_?style=social)](https://twitter.com/_arihantbansal)
