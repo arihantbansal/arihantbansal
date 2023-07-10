@@ -5,7 +5,7 @@
 ---
 
 - 🔭 I'm primarily interested in distributed systems, blockchain, and zero- knowledge cryptography.
-- 🛠️ I'm working at [Elusiv](https://elusiv.io/), building a composable privacy layer for web3
+- 🛠️ I'm working at [Elusiv](https://elusiv.io/), building the composable privacy layer for web3
 - ✨ I'm currently improving my Rust skills, and learning more about cryptography and distributed systems.
 - 👯 I’m looking to collaborate on anything related to blockchain development, cryptography engineering and distributed systems.
 - 🥅 2023 Goals: Contribute to open source projects in Solana ecosystem
