@@ -5,7 +5,7 @@
 ---
 
 - 🔭 I'm primarily interested in distributed systems, blockchain, and zero-knowledge cryptography.
-- 🛠️ I'm working at [Arcium](https://arcium.com/), building the first parallelized confidential computing network
+- 🛠️ I'm working at [Arcium](https://arcium.com/), building decentralized confidential computing on solana.
 - ✨ I'm currently learning more about cryptography and distributed systems.
 - 👯 I’m looking to collaborate and contribute to distributed systems, and cryptography related projects.
 - 🥅 2024 Goals: Contribute to open source projects in Solana ecosystem
