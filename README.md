@@ -12,8 +12,3 @@
 - ⚡ Fun fact: I updated this readme while waiting for a PR review.
 
 privacy/acc. mpc/acc
-
-### Contact Me - 📫
-
-- [Twitter](https://twitter.com/_arihantbansal)
-- [LinkedIn](https://www.linkedin.com/in/arihantbansal/)
