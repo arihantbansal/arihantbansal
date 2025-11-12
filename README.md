@@ -5,7 +5,7 @@
 ---
 
 - 🔭 I'm primarily interested in distributed systems, blockchain, and cryptography.
-- 🛠️ I'm building the <encrypted> supercomputer at [Arcium](https://arcium.com/). 
+- 🛠️ I'm building the encrypted supercomputer at [Arcium](https://arcium.com/). 
 - ✨ I'm currently learning more about cryptography and distributed systems.
 - 👯 I’m looking to collaborate and contribute to distributed systems, and cryptography related projects.
 - 🥅 2025 Goals: Contribute to more open source projects in Solana ecosystem.
