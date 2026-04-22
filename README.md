@@ -8,7 +8,7 @@
 - 🛠️ I'm building the encrypted supercomputer at [Arcium](https://arcium.com/). 
 - ✨ I'm currently learning more about cryptography and distributed systems.
 - 👯 I’m looking to collaborate and contribute to distributed systems, and cryptography related projects.
-- 🥅 2025 Goals: Contribute to more open source projects in Solana ecosystem.
+- 🥅 2026 Goals: Contribute to more open source projects in Solana ecosystem.
 - ⚡ Fun fact: I updated this readme while waiting for a PR review.
 
 privacy/acc. mpc/acc
