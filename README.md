@@ -4,11 +4,11 @@
 
 ---
 
-- 🔭 I'm primarily interested in distributed systems, blockchain, and cryptography.
-- 🛠️ I'm building the encrypted supercomputer at [Arcium](https://arcium.com/). 
-- ✨ I'm currently learning more about cryptography and distributed systems.
-- 👯 I’m looking to collaborate and contribute to distributed systems, and cryptography related projects.
-- 🥅 2026 Goals: Contribute to more open source projects in Solana ecosystem.
-- ⚡ Fun fact: I updated this readme while waiting for a PR review.
+- I'm an engineer working on agents, developer tools, cryptography, and distributed systems.
+- I worked across product and engineering at [Arcium](https://arcium.com/) from June 2023 to July 2026.
+- I'm currently learning more about cryptography and distributed systems.
+- I'm looking to collaborate and contribute to distributed systems and cryptography-related projects.
+- 2026 goal: Contribute to more open source projects in the Solana ecosystem.
+- Fun fact: I updated this readme while waiting for a PR review.
 
 privacy/acc. mpc/acc
